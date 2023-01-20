@@ -3,7 +3,9 @@ Python program na výpočet indexu stáří, umožňuje grafické rozhraní, vst
 
 ## Jak ho spustit
 
+Odkaz na stáhnutí: [https://github.com/MitasVit/Index_stari/blob/main/index_stari.exe?raw=true](https://github.com/MitasVit/Index_stari/blob/main/index_stari.exe?raw=true)
 
+Pokud se vám zobrazí chybová zpráva typu: `Soubor XXX.dll se nenašel. Opravte reinstalací programu.` Tak to znamená, že vám chybí v počítači knihovny, díky kterým tento program běží. Můžete je stáhnout z: [https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
 ## Zkompilování ze zdrojového kódu
 Umožňuje například měnit či upravovat program dle libovolných požadavků.
