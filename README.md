@@ -1,9 +1,16 @@
 # Index_stari
 Python program na výpočet indexu stáří, umožňuje grafické rozhraní, vstupní hodnoty musí být zadávány bez mezer.
 
+## Ukázka 
+
+![image](https://user-images.githubusercontent.com/71701503/213783976-a6671913-5355-42f3-b515-c5de7da149e1.png)
+
+
 ## Jak ho spustit
 
 Odkaz na stáhnutí: [https://github.com/MitasVit/Index_stari/blob/main/index_stari.exe?raw=true](https://github.com/MitasVit/Index_stari/blob/main/index_stari.exe?raw=true)
+
+Upozornění pro zadávání hodnot: hodnoty čísel musí být vždy zadávané tak, aby neobsahovali mezery.
 
 Pokud se vám zobrazí chybová zpráva typu: `Soubor XXX.dll se nenašel. Opravte reinstalací programu.` Tak to znamená, že vám chybí v počítači knihovny, díky kterým tento program běží. Můžete je stáhnout z: [https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
